@@ -1,0 +1,7 @@
+To use this script:
+
+Save it to a file, for example, pomodoro.sh.
+Open your terminal.
+Navigate to the directory where you saved the file.
+Make the script executable with the command: chmod +x pomodoro.sh.
+Run the script using the command: ./pomodoro.sh.
